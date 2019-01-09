@@ -15,5 +15,5 @@ Details about project:
 
 
 5 ISO-14443 A is a standard for NFC cards. withmeduim frequency(MF) transfer data,50kb/s, reading distance 50-80 cm}, company MIfare 
-security of card- 16-32 bit digital signature, so it is kind of unsafe, for this reason we need to use your student ID address to login  for example( mit.edu  harvard.edu  zju.edu.cn  e.t.c) 
+security of card- 16-32 bit digital signature, so it is kind of unsafe, for this reason you need to use your student ID address to login  for example( mit.edu  harvard.edu  zju.edu.cn  e.t.c) 
 
